@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://i.postimg.cc/xC2MKK4z/Yara-1.png" width="400" height="400"  />
+<img src="https://tulioalbu.github.io/Yara_API-envio-de-emails-automatizados/Yara1.png" width="400" height="400"  />
 </p>
 
 # Yara - Message in a Bottle
